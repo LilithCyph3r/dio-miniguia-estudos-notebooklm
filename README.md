@@ -1,4 +1,4 @@
-# dio-miniguia-estudos-notebooklm
+# 📚 dio-miniguia-estudos-notebooklm
 criar um segundo cerebro para ensinar uma iniciante a investir no ramo da **FORMULA, MÚSICA E TECNOLOGIA** utilizando os conceitos de **BENJAMIN GRAHAM**
 
 
@@ -33,3 +33,21 @@ Parceiros de Tecnologia: Empresas como **Oracle, AWS (Amazon) e Salesforce** for
 
 Como você mencionou ser iniciante, o sistema **BridgeWise** (disponível via **B3**) pode ser usado para analisar se essas ações estão **"caras"** ou **"baratas"** no momento
 .
+**quais as melhores ações para investir na tecnologia**
+Com base nas fontes, investir em tecnologia em 2026 envolve olhar para empresas consolidadas e fundos de índice (**ETFs**) que equilibram crescimento e renda. Aqui estão as principais opções citadas:
+**ETFs de Tecnologia (Diversificação)**: Para iniciantes, os **ETFs** são recomendados por reunirem várias empresas em um único ativo.
+**TDV (S&P Technology Dividend Aristocrats)**: Foca em empresas de tecnologia de alta qualidade que aumentam seus dividendos há pelo menos sete anos
+
+.
+**IQQQ (Nasdaq-100 High Income)**: Busca capturar o crescimento das 100 maiores empresas da **Nasdaq (como Apple e Microsoft**) gerando renda extra através de opções
+**Gigantes de Infraestrutura e IA**: Empresas que fornecem a base tecnológica para outros setores (como a **Fórmula 1**) são destaques:
+
+**Amazon (AWS), Oracle e Salesforce**: São citadas como parceiras essenciais no processamento de dados e IA generativa
+
+**Empresas de Consumo Digital:**
+**Spotify (SPOT)**: É usada como exemplo de uma ação de alta qualidade que demonstrou forte recuperação e valorização após períodos de baixa
+
+      
+**Dica de Iniciante**: Como você está começando, pode usar a plataforma de **IA BridgeWise (disponível pela B3**) para ver relatórios institucionais que avaliam se essas ações específicas estão com uma boa saúde financeira antes de comprar
+.
+Faz sentido para você começar por um fundo que agrupa várias empresas (**ETF**) ou prefere analisar uma dessas empresas individualmente?
