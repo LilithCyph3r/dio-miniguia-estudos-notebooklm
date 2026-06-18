@@ -6,11 +6,14 @@ criar um segundo cerebro para ensinar uma iniciante a investir no ramo da **FORM
 
 Para começar, as fontes sugerem um caminho em três passos práticos:
 
-**Organize seu conhecimento: Antes de aplicar dinheiro, crie um Segundo Cérebro**
+**1.Organize seu conhecimento: Antes de aplicar dinheiro, crie um Segundo Cérebro**
 
 Use o método **PARA** para organizar suas pesquisas em categorias (**Projetos, Áreas, Recursos e Arquivos**), o que ajuda a processar relatórios e dados sem se sentir sobrecarregado
 Aproveite a tecnologia: A **B3** oferece uma ferramenta de **Inteligência Artificial** (**BridgeWise**) que analisa a saúde financeira de milhares de empresas globais
-Isso permite que iniciantes tenham insights de nível institucional sem precisarem ser especialistas em análise técnica logo de cara
+Isso permite que iniciantes tenham insights de nível institucional sem precisarem ser especialistas em análise técnica logo de cara.
+
+
+**2.Aproveite a tecnologia**: A **B3** oferece uma ferramenta de **Inteligência Artificial (BridgeWise)** que analisa a saúde financeira de milhares de empresas globais. Isso permite que iniciantes tenham insights de nível institucional sem precisarem ser especialistas em análise técnica logo de cara.
 .
 **Estude os fundamentos de setores específicos:**
 
