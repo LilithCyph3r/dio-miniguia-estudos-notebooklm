@@ -1,6 +1,218 @@
 # 📚 dio-miniguia-estudos-notebooklm
 criar um segundo cerebro para ensinar uma iniciante a investir no ramo da **FORMULA, MÚSICA E TECNOLOGIA** utilizando os conceitos de **BENJAMIN GRAHAM**
 
+🎯 **Contexto**
+
+Muitas pessoas desejam começar a investir, mas se sentem perdidas diante da enorme quantidade de informações disponíveis.
+Neste projeto utilizei o NotebookLM como um "Segundo Cérebro" para organizar estudos sobre investimentos utilizando os princípios de Benjamin Graham, considerado o pai do Value Investing.
+
+O objetivo foi construir um sistema simples para que uma pessoa iniciante consiga entender oportunidades de investimento em três áreas que fazem parte da economia moderna:
+
+🏎️ Fórmula 1
+🎵 Música
+💻 Tecnologia
+
+Ao invés de decorar informações, o foco foi criar uma base de conhecimento reutilizável utilizando Inteligência Artificial.
+
+🎯 **Objetivos de Estudo**
+Entender os conceitos fundamentais de Benjamin Graham;
+Aprender a utilizar IA para apoiar decisões de estudo;
+Criar um Segundo Cérebro utilizando o método PARA;
+Descobrir formas de investir nos setores de Tecnologia, Música e Fórmula 1;
+Construir um conjunto de prompts reutilizáveis para futuras análises.
+
+🧠**Construindo um Segundo Cérebro**
+
+Para organizar as informações foi utilizado o método **PARA**:
+
+Projetos
+Estudar investimentos
+Montar carteira inicial
+Avaliar oportunidades
+Áreas
+Educação Financeira
+Tecnologia
+Música
+Fórmula 1
+Recursos
+Relatórios financeiros
+Artigos
+Livros
+Estudos de mercado
+Arquivos
+Conteúdo concluído
+Pesquisas antigas
+Análises finalizadas
+
+📖 **Curadoria de Fontes**
+
+Livro:
+**Benjamin Graham: O Investidor Inteligente**
+
+**B3 + BridgeWise**
+Relatórios de análise fundamentalista
+Avaliação de empresas globais
+
+
+**Tecnologia**
+Oracle
+Amazon AWS
+Salesforce
+Spotify
+Fórmula 1
+Liberty Media (FWONK)
+Ferrari (RACE)
+Aston Martin (AML)
+
+**Música**
+Royalties Musicais
+Streaming
+Spotify
+
+🔍 Engenharia de Prompts
+
+**Prompt 1**
+
+**"criar um segundo cérebro baseados nos ensianmentos de benjamin graham ,e, sua metodologia de investimentos para investiver na Formula 1,Musica e tecnologia"**
+
+Aprendizado
+
+A IA simplificou conceitos complexos de valuation e margem de segurança.
+
+Prompt 2
+
+"Como investir na Fórmula 1 utilizando os princípios de Benjamin Graham?"
+
+Resultado
+
+Foram identificadas empresas ligadas ao ecossistema da categoria:
+
+Liberty Media
+Ferrari
+Aston Martin
+Prompt 3
+
+"Quais empresas de tecnologia possuem vantagens competitivas duradouras?"
+
+Resultado
+
+Destaques:
+
+Amazon
+Oracle
+Salesforce
+Microsoft
+Prompt 4
+
+"Como analisar uma ação usando os critérios de Benjamin Graham?"
+
+Resultado
+
+Checklist gerado:
+
+Receita crescente
+Lucros consistentes
+Dívida controlada
+Fluxo de caixa positivo
+Preço abaixo do valor intrínseco
+📘 Miniguia de Estudos
+Filosofia de Benjamin Graham
+
+O investidor deve agir como proprietário de empresas e não como especulador.
+
+Princípios:
+
+Margem de Segurança
+Valor Intrínseco
+Diversificação
+Disciplina
+Setor 1 — Fórmula 1
+Investimento Direto
+FWONK (Liberty Media Formula One)
+Empresas Relacionadas
+Ferrari (RACE)
+Aston Martin (AML)
+Parceiros Tecnológicos
+Oracle
+AWS
+Salesforce
+Setor 2 — Tecnologia
+ETFs
+TDV
+IQQQ
+Empresas
+Amazon
+Oracle
+Salesforce
+Spotify
+Setor 3 — Música
+Possibilidades
+Spotify
+Empresas de streaming
+Fundos de royalties musicais
+Características
+Receita recorrente
+Crescimento global
+Economia digital
+📚 Glossário
+Value Investing
+
+Investir comprando ativos abaixo de seu valor real.
+
+Margem de Segurança
+
+Comprar com desconto para reduzir riscos.
+
+ETF
+
+Fundo que reúne diversas empresas em um único ativo.
+
+Royalties
+
+Receitas geradas pelo uso de músicas, marcas ou patentes.
+
+Value Trap
+
+Empresa aparentemente barata que continua perdendo valor.
+
+Segundo Cérebro
+
+Sistema externo de organização de conhecimento.
+
+🚀 Prompts Reutilizáveis
+Avaliação Inicial
+
+"Explique esta empresa como se eu fosse um investidor iniciante."
+
+Benjamin Graham
+
+"Analise esta empresa utilizando os princípios de Benjamin Graham."
+
+Saúde Financeira
+
+"Quais são os principais riscos financeiros desta empresa?"
+
+Comparação
+
+"Compare Ferrari, Spotify e Amazon utilizando critérios de Value Investing."
+
+Decisão
+
+"Esta empresa possui margem de segurança suficiente para um investidor conservador?"
+
+✅ Conclusão
+
+O NotebookLM mostrou que a Inteligência Artificial pode ser utilizada não apenas para responder perguntas, mas para construir um verdadeiro Segundo Cérebro de investimentos.
+
+A combinação entre IA, organização do conhecimento e os ensinamentos de Benjamin Graham permitiu criar um processo estruturado para estudar oportunidades em Tecnologia, Música e Fórmula 1 de forma organizada e acessível para iniciantes.
+
+
+🎯 **Objetivos de Estudo**
+Entender os conceitos fundamentais de Benjamin Graham;
+Aprender a utilizar IA para apoiar decisões de estudo;
+Criar um Segundo Cérebro utilizando o método PARA;
+Descobrir formas de investir nos setores de Tecnologia, Música e Fórmula 1;
+Construir um conjunto de prompts reutilizáveis para futuras análises.
 
 ## Titulo Sou iniciante em investimentos,por onde devo começar?
 
@@ -46,7 +258,6 @@ Com base nas fontes, investir em tecnologia em 2026 envolve olhar para empresas 
 
 **Empresas de Consumo Digital:**
 **Spotify (SPOT)**: É usada como exemplo de uma ação de alta qualidade que demonstrou forte recuperação e valorização após períodos de baixa
-
       
 **Dica de Iniciante**: Como você está começando, pode usar a plataforma de **IA BridgeWise (disponível pela B3**) para ver relatórios institucionais que avaliam se essas ações específicas estão com uma boa saúde financeira antes de comprar
 .
